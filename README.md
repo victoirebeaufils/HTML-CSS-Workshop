@@ -2,7 +2,7 @@
 
 For those that wish to review the content we talked about, I have linked the recording and the powerpoint below:
 
-- [Powerpoint](https://github.com/victoirebeaufils/HTML-CSS-Workshop/blob/master/HTML_CSS%20Workshop.pptx)
+- [Powerpoint to download](https://github.com/victoirebeaufils/HTML-CSS-Workshop/blob/master/HTML_CSS%20Workshop.pptx) or [Google slides link](https://docs.google.com/presentation/d/1Zl3Fk5DSTRprOz9_MpsoYYdAH1cr0-2Kr0ULp0UiJJE/edit?usp=sharing)
 - [Recording on Youtube](https://www.youtube.com/watch?v=-5CLrdAc5Yo&ab_channel=VictoireBeaufils)
 
 The code we wrote is available in this repository.
